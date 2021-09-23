@@ -10,6 +10,6 @@ Ejemplo de uso:
     data: null,
     loading: true,
     error: null,
-  }=useFetch(url);
+  }= useFetch(url);
 
 ```
